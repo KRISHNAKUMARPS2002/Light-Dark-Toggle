@@ -16,4 +16,5 @@ This project provides a simple light-dark theme toggle functionality for web pag
 
 #### Usage
 
-1. **Clone Repository:** Clone this repository to your local machine.
+1. **Clone Repository:** git clone https://github.com/KRISHNAKUMARPS2002/Light-Dark-Toggle.git
+
